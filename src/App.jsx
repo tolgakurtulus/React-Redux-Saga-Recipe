@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="c-app">
       <header className="c-app__header">
-        <h1>Header</h1>
+        <h1>Recipe App</h1>
       </header>
       <div className="c-app__search">
       <div className="c-app__search-container">
