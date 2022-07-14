@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Redux-Saga-Recipe/static/css/main.bb74039b.chunk.css",
-    "main.js": "/React-Redux-Saga-Recipe/static/js/main.6d671f93.chunk.js",
-    "main.js.map": "/React-Redux-Saga-Recipe/static/js/main.6d671f93.chunk.js.map",
+    "main.js": "/React-Redux-Saga-Recipe/static/js/main.2e90634d.chunk.js",
+    "main.js.map": "/React-Redux-Saga-Recipe/static/js/main.2e90634d.chunk.js.map",
     "runtime-main.js": "/React-Redux-Saga-Recipe/static/js/runtime-main.7d03f208.js",
     "runtime-main.js.map": "/React-Redux-Saga-Recipe/static/js/runtime-main.7d03f208.js.map",
     "static/js/2.89c98424.chunk.js": "/React-Redux-Saga-Recipe/static/js/2.89c98424.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7d03f208.js",
     "static/js/2.89c98424.chunk.js",
     "static/css/main.bb74039b.chunk.css",
-    "static/js/main.6d671f93.chunk.js"
+    "static/js/main.2e90634d.chunk.js"
   ]
 }
