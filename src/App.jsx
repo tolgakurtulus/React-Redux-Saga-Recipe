@@ -14,6 +14,7 @@ function App() {
     setQuery(search);
     setSearch("");
   };
+  
   useEffect(() => {
     dispatch({ type: types.FETCH_RECIPE_START, query });
   }, [query]);
