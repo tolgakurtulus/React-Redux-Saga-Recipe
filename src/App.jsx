@@ -14,7 +14,7 @@ function App() {
     setQuery(search);
     setSearch("");
   };
-  
+
   useEffect(() => {
     dispatch({ type: types.FETCH_RECIPE_START, query });
   }, [query]);
@@ -25,17 +25,17 @@ function App() {
         <h1>Recipe App</h1>
       </header>
       <div className="c-app__search">
-      <div className="c-app__search-container">
-        <input
-          value={search}
-          onChange={(e) => setSearch(e.target.value)}
-          type="text"
-          required
-        />
-        <button type="submit" onClick={updateSearch}>
-          Search
-        </button>
-      </div>
+        <div className="c-app__search-container">
+          <input
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            type="text"
+            required
+          />
+          <button type="submit" onClick={updateSearch}>
+            Search
+          </button>
+        </div>
       </div>
       <div className="c-app__card">
         {recipes &&
